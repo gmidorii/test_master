@@ -6,3 +6,5 @@ developer1 now
 developer1 nownow
 
 pattern merge
+
+pattern rebase
