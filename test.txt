@@ -14,4 +14,4 @@ featcher branch merge
 featcher2 branch rebase
 
 real rebase
-
+delete featcher2
