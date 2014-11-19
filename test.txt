@@ -1,4 +1,4 @@
-git add + commit + merge
+git add + commit + merge + rebase
 
 develop now
 
