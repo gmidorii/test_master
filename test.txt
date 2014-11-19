@@ -8,3 +8,6 @@ developer1 nownow
 pattern merge
 
 pattern rebase
+
+
+featcher branch merge
